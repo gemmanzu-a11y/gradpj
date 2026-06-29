@@ -1,0 +1,4 @@
+﻿datetime,market_date,hour,predicted_smp,lag_24,lag_168,ramp_probability,risk_level,price_weather,model_name,source,window_avg_smp
+2023-10-01 03:00:00,2023-10-01,3,82.60996704865651,92.46,97.88,7.274179443895961e-06,낮음,충전 맑음,validation_selected_profile_hgb_blend,V5_DAY_AHEAD_DIRECT_HGB,81.48834166442789
+2023-10-01 04:00:00,2023-10-01,4,80.19101490095112,90.91,91.46,1.1206883967120968e-05,낮음,충전 맑음,validation_selected_profile_hgb_blend,V5_DAY_AHEAD_DIRECT_HGB,81.48834166442789
+2023-10-01 05:00:00,2023-10-01,5,81.66404304367607,92.46,102.6,1.27667293364693e-05,낮음,충전 맑음,validation_selected_profile_hgb_blend,V5_DAY_AHEAD_DIRECT_HGB,81.48834166442789
